@@ -110,5 +110,14 @@ const movie = {
     castMembers: ["", ""]
 }
 
+// // DAY 2 IN CLASS CHALLENGE
 
+let longWord = "Supercalifragilisticexpialidocious";
+// longWord = "Encyclepedia";
+// longWord = "Octopus"
+// longWord = "Machinations";
+console.log(longWord.length);
+// let howManyLettersInWord = longWord.length;
+
+// console.log(`How many letters are in ${longWord}: ${howManyLettersInWord}`);
 
